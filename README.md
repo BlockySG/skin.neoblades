@@ -7,7 +7,7 @@ noun: a group or set of four
 
 ------------------------------------------------------------------------
 ## ABOUT NeoBlades FOR KODI 21
-The aim with TetradUI was to create a fresh modern homage of the classic blades-style UI found in the original Xbox360 dashboard. Also seen in the works of Team Blackbolt and Jezz_X with projects MC360 and JX720 respectively. TetradUI is based from JX720 by Jezz_X.
+The aim with TetradUI was to create a fresh modern homage of the classic blades-style UI found in the original Xbox360 dashboard. Also seen in the works of Team Blackbolt and Jezz_X with projects MC360 and JX720 respectively. TetradUI was based from JX720 by Jezz_X.
   
 Originally Created by Jezz_X and TeamUI
 
